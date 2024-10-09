@@ -1,3 +1,3 @@
 ﻿# merge_unit_test
 
-npm test
+# use npm test
