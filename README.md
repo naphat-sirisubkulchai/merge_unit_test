@@ -2,5 +2,13 @@
 
 use Jest as tool
 
-testing
-run: npm test
+
+
+#setup
+npm install
+
+#exucute the index.ts
+npx ts-node src/index.ts
+
+#unit test
+npm test
