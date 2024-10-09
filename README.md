@@ -7,7 +7,7 @@ use Jest as tool
 # setup
 npm install
 
-# exucute the index.ts
+# execute the index.ts
 npx ts-node src/index.ts
 
 # unit test
